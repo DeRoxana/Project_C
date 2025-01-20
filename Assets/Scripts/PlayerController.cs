@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     private float speed = 10f;
     private Rigidbody2D playerRb;
     private Vector2 direction;
-    private float speedMovement = 100f;
+    private float speedMovement = 80f;
 
     private void Start()
     {
