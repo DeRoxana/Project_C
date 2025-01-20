@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D playerRb;
     private Vector2 direction;
     private float speedMovement = 80f;
+    private float speed2 = 10f;
 
     private void Start()
     {
